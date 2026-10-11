@@ -1,5 +1,6 @@
 {
   "name": "activelayer",
+  "displayName": "ActiveLayer",
   "version": "1.0.0",
   "description": "Integrate and troubleshoot ActiveLayer spam protection in Cursor: create projects, test submissions, review detections, report incorrect verdicts, and track usage through MCP tools.",
   "author": {
@@ -11,5 +12,7 @@
   "license": "MIT",
   "keywords": ["spam", "forms", "spam-protection", "wordpress", "mcp", "activelayer"],
   "logo": "assets/logo.svg",
-  "mcpServers": "mcp.json"
+  "category": "integrations",
+  "tags": ["activelayer", "spam-protection", "forms", "mcp"],
+  "mcpServers": "./mcp.json"
 }

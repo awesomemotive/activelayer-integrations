@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "activelayer": {
+      "type": "http",
       "url": "https://app.activelayer.com/mcp"
     }
   }

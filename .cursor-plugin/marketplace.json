@@ -1,0 +1,17 @@
+{
+  "name": "activelayer-integrations",
+  "owner": {
+    "name": "ActiveLayer",
+    "email": "support@activelayer.com"
+  },
+  "metadata": {
+    "description": "ActiveLayer integrations for developer tools and AI assistants."
+  },
+  "plugins": [
+    {
+      "name": "activelayer",
+      "source": "cursor",
+      "description": "Integrate and troubleshoot ActiveLayer spam protection through MCP tools."
+    }
+  ]
+}
